@@ -28,7 +28,7 @@
       {{- if or (.Get "caption") (.Get "attr") -}}<p>
         {{- .Get "caption" | markdownify -}}
         {{- with .Get "attrlink" }}
-          <a href="{{ . }}"  >
+          <a color:black; href="{{ . }}"  >
         {{- end -}}
         {{- .Get "attr" | markdownify -}}
         {{- if .Get "attrlink" }}</a>{{ end }}</p>
