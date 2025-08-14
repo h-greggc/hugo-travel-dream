@@ -16,7 +16,7 @@ tags:
   - Spain exhibitions
   - Seville
 # nolastmod: true
-draft: true
+draft: false
 weight: 35
 nolastmod: true
 params:

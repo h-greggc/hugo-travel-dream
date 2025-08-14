@@ -17,7 +17,7 @@ tags:
   - Gaudí
   - Sagrada Família
 nolastmod: true
-draft: true
+draft: false
 weight: 10
 params:
   toured: 

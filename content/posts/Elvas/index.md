@@ -16,7 +16,7 @@ tags:
   - Medieval architecture
   - Elvas
 # nolastmod: true
-draft: true
+draft: false
 weight: 55
 params:
   toured:  

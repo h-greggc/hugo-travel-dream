@@ -17,7 +17,7 @@ tags:
   - Moors
   - Islamic Architecture
 # nolastmod: true
-draft: true
+draft: false
 weight: 40
 nolastmod: true
 params:

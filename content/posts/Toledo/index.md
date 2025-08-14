@@ -17,7 +17,7 @@ tags:
   - Medieval city
 
 nolastmod: true
-draft: true
+draft: false
 weight: 52
 params:
   toured: 

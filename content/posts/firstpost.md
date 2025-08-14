@@ -14,7 +14,7 @@ tags:
 
 # nolastmod: true
 # math: true
-draft: true
+draft: false
 weight: 999
 params:
   toured:

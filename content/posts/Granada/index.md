@@ -16,7 +16,7 @@ tags:
   - Alhambra
   - UNESCO World Heritage
 nolastmod: true
-draft: true
+draft: false
 weight: 28
 params:
   toured: 

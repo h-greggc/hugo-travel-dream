@@ -16,7 +16,7 @@ tags:
   - tag2
 nolastmod: true
 # math: true
-draft: true
+draft: false
 params:
   toured: 
     start:  2025-05-10

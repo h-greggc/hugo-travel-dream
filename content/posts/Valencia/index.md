@@ -15,7 +15,7 @@ categories:
 tags:
   - architecture
 nolastmod: true
-draft: true 
+draft: false 
 weight: 25
 params:
   toured: 
