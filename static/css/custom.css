@@ -1,0 +1,102 @@
+/* Some styles for placing two figures sisde by side with captions */
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 100%;
+  padding: 2px;
+}
+
+
+/* 
+/* Clean up the body columns as needed
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table; } 
+
+  
+/* Wrapper styling for code blocks */
+/* This style modifies the HUGO documents style for top padding and margin bottom*/
+.code-block-wrapper {
+  position: relative;
+  margin-bottom: 0.5rem;
+  padding-top: 1rem; /* Add space for the button */
+  text-wrap: wrap;
+}
+
+/* Copy button styling */
+.copy-code-button {
+  position: absolute;
+  top: 5px; /* Position the button at the top */
+  right: 10px; /* Position the button to the right */
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+  font-size: 16px;
+  color: #757c85; /* GitHub-style gray */
+}
+
+.copy-code-button:hover {
+  color: #0366d6; /* GitHub-style blue */
+}
+
+.copy-code-button svg {
+  vertical-align: middle;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:65%;
+}
+
+.image1 {
+  display: block;
+  padding-block: calc(var(--spacing) * 2);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.figcaption {
+  text-align: center;
+  font-style:italic;
+  color:#2c3e50;
+}
+
+/* decrease the block spacing */
+  .py-2 {
+    padding-block: calc(var(--spacing) * 2);
+  }
+
+  .space-y-2 {
+    :where(& > :not(:last-child)) {
+      --tw-space-y-reverse: 0;
+      margin-block-start: calc(calc(var(--spacing) * 2) * var(--tw-space-y-reverse));
+      margin-block-end: calc(calc(var(--spacing) * 2) * calc(1 - var(--tw-space-y-reverse)));
+    }
+  }
+
+  
+/* Paragraph */
+/* increased font darkness */
+
+.figcaption{
+ color:#050505;
+ font-style: italic;
+};
+
+
+      :where(figcaption):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+      color: var(--tw-prose-captions);
+      font-size: 0.875em;
+      line-height: 1.4285714;
+      margin-top: 0.8571429em;
+      
+    }

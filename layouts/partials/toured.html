@@ -1,0 +1,15 @@
+{{/* Put the tour start and end dates in the post header and the post (using shortcode) */}}
+{{/*  Gregg Claycamp 2025-07-31   */}}
+
+{{ if .Page.Params.toured.start }}
+    {{ $tourstart := .Page.Params.toured.start | default "2025-05-10" }}
+    {{ $date := time $tourstart }}
+    {{ $formattedDate := $date.Format "January 2, 2006" }}
+      <span>Tour start: {{ $formattedDate -}} </span>
+      {{ if .Page.Params.toured.end }}
+        {{ $tourend := .Page.Params.toured.end | default "2025-05-24" }}
+      {{ $date := time $tourend }}
+      {{ $formattedDate := $date.Format "January 2, 2006" }}
+      <span>Tour end: {{ $formattedDate }}.</span>
+    {{ end }}
+{{ end }}    

@@ -1,0 +1,154 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Gregg Claycamp'
+theme= "dream"
+
+# [services]
+# [services.disqus]
+# shortname = ""
+# [services.googleAnalytics]
+# ID = ""
+
+[params]
+# zenMode = true
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+# backgroundImage = "img/Spain-sites.png"
+# backgroundImageDark = ""
+
+# author = "Dream"
+# description = ""
+avatar = "img/avatar.JPEG"
+headerTitle = "Journey - TBA!"
+# motto = ""
+
+# footerBottomText = "A personal travel blog built with HUGO and [hugo-theme-dream](https://hugo-theme-dream.g1en.site/)."
+
+# rss = true
+
+# utterancesRepo = ""
+
+# valine = true
+# LEANCLOUD_APP_ID = ""
+# LEANCLOUD_APP_KEY = ""
+
+# waline = true
+# walineServer = ""
+
+email = "hgclaycamp@gmail.com"
+
+siteStartYear = 2025
+
+# favicon = "favicon.ico"
+
+# Syntax highlighting
+# customSyntaxHighlighting = true
+
+# options
+stickyNav = true
+# reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
+# collapseNavItems = ["posts", "categories", "tags"]
+# noDefaultSummaryCover = true
+showTableOfContents = true
+showSummaryCoverInPost = true
+# imageZoomableInPost = true
+showPrevNextPost = true
+# reorderShares = []
+
+# [params.navItems]
+
+# [params.twikoo]
+# enabled = true
+# envID = ""
+# region = ""
+# lang = ""
+
+# [params.advanced]
+customCSS = ["css/custom.css"]
+# customJS = []
+
+# [params.experimental]
+# jsDate = true
+# jsDateFormat = "yyyy年MM月dd日"
+
+
+[markup.highlight]
+codeFences = true  # Enable highlighting for fenced code blocks (```)
+guessSyntax = true # Attempt to highlight code blocks without a specified language
+hl_Lines = ""      # Specify lines to be highlighted (e.g., "1-3,5")
+lineNoStart = 1    # Starting line number for displaying line numbers
+lineNos = false    # Display line numbers in code blocks
+lineNumbersInTable = true # Display line numbers in a table structure
+tabWidth = 4       # Number of spaces for a tab
+noClasses = true #  Set to 'true' to disable CSS classes and use inline styles for highlighting
+style = "friendly"  # Choose a highlighting style/theme (e.g., "monokai", "solarized")
+
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  ignoreLogs = ['warning-goldmark-raw-html']
+
+  [markup.goldmark]
+    duplicateResourceFiles = false
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      [markup.goldmark.extensions.cjk]
+        eastAsianLineBreaks = false
+        eastAsianLineBreaksStyle = 'simple'
+        enable = false
+        escapedSpace = false
+      [markup.goldmark.extensions.extras]
+        [markup.goldmark.extensions.extras.delete]
+          enable = false
+        [markup.goldmark.extensions.extras.insert]
+          enable = false
+        [markup.goldmark.extensions.extras.mark]
+          enable = false
+        [markup.goldmark.extensions.extras.subscript]
+          enable = false
+        [markup.goldmark.extensions.extras.superscript]
+          enable = false
+      [markup.goldmark.extensions.passthrough]
+        enable = false
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = []
+          inline = []
+      [markup.goldmark.extensions.typographer]
+        apostrophe = '&rsquo;'
+        disable = false
+        ellipsis = '&hellip;'
+        emDash = '&mdash;'
+        enDash = '&ndash;'
+        leftAngleQuote = '&laquo;'
+        leftDoubleQuote = '&ldquo;'
+        leftSingleQuote = '&lsquo;'
+        rightAngleQuote = '&raquo;'
+        rightDoubleQuote = '&rdquo;'
+        rightSingleQuote = '&rsquo;'
+    [markup.goldmark.parser]
+      autoDefinitionTermID = false
+      autoHeadingID = true
+      autoIDType = 'github'
+      wrapStandAloneImageWithinParagraph = true
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = false
+        useEmbedded = 'auto'
+      [markup.goldmark.renderHooks.link]
+        enableDefault = false
+        useEmbedded = 'auto'
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
