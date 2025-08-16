@@ -69,7 +69,8 @@
     font-weight: inherit;
   }
   a {
-    color: inherit;
+  /*  color: inherit; */
+      color: black;
     -webkit-text-decoration: inherit;
     text-decoration: inherit;
   }
