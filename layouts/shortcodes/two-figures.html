@@ -1,24 +1,12 @@
-    <style>
-        * {
+{{/* Make a smaller gap before placing two imgs together */}}
+<style>
+        *{
         box-sizing: border-box;
-        margin-top: 2px;
+        margin-top: 3px;
         }
+</style>  
 
-        .column {
-        float: left;
-        width: 50%;
-        padding: 2px;
-        }
-
-    /* Clearfix (clear floats) */
-        .row::after {
-        row-gap: 2px;
-        content: "";
-        clear: both;
-        display: table; 
-    }
-    </style>
-<div class="row" >
+<div class="grid grid-cols-2 gap-2 ">
     {{ .Inner }}
 </div> 
 

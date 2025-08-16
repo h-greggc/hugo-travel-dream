@@ -1,0 +1,27 @@
+<style>
+        *{
+        box-sizing: border-box;
+        margin-top: 2px;
+     
+        }
+
+
+    /* Clearfix (clear floats) */
+        .row::after {
+        row-gap: 2px;
+        content: "";
+        clear: both;
+        display: table; 
+    }  
+      </style> 
+
+
+
+<div class="grid grid-cols-2 gap-2 text-black dark:text-white">
+    {{ .Inner }}
+</div> 
+
+<style class="row width:100%">
+</style> 
+
+

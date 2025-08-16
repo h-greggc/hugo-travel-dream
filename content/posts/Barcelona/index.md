@@ -57,7 +57,7 @@ Picasso's most famous works are in the Louvre and the Reina de Sofia Museum in M
 >}}
 
 
-"Barcelona in the 'high season' translates to mean crowd--of course! Walking on the most popular streets and narrow pedestrian-only streets in the Gothic Quarter is challenging to a fast walker-like me. Nevertheless, we managed to log `14,237` steps that first half day. 
+Barcelona in the 'high season'  means 'crowded'--of course! Walking on the most popular streets and narrow pedestrian-only streets in the Gothic Quarter is challenging to a fast walker-like me. Nevertheless, we managed to log `14,237` steps that first half day. 
 
 ## Monday, May 12: Barcelona on foot
 

@@ -8,7 +8,7 @@ This is a personal travel blog website currently in development. The blog is not
 
 ### Credits
 
-A high-content, fast-moving tour inevitably looses some photo ops along the way. In cases where I couldn't capture _my_ view of the site/scene, I have sometimes downloaded from others who have shared on the internet. I have attempted to make every borrowed photo clear by attribution of the artist.
+A high-content, fast-moving tour inevitably looses some photo ops along the way. In cases where I couldn't capture _my view_ of the site/scene, I have downloaded from others who have shared on the internet. I  attempted to attribute every borrowed photo by attribution of the artist in the text, caption or a link.
 
-The basic theme was cloned as credited in the footnotes. My modifications are also available through the MIT license.
+The basic theme was cloned from [HUGO theme dream](https://github.com/g1eny0ung/hugo-theme-dream) as credited in the website footer. The original theme and my modifications are also available through the MIT license.
 

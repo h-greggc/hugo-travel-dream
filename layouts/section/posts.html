@@ -4,7 +4,7 @@
 
 {{ define "main"}}
 
-<div class="mt-8 lg:mt-12 px-4">
+<div class="px-4 mt-8 lg:mt-12">
   <div class="mx-auto prose dark:prose-invert">
     <h1 class="text-3xl">
       {{ default (T "archives") .Title }}
@@ -23,10 +23,10 @@
         <div class="timeline-start justify-self-start!">
           <div class="text-lg font-semibold">{{ .Key }}</div>
         </div>
-        <div class="timeline-middle flex items-center mx-8 my-2">
+        <div class="flex items-center mx-8 my-2 timeline-middle">
           <ion-icon name="time"></ion-icon>
         </div>
-        <div class="timeline-end timeline-box dark:border-base-content/60 prose dark:prose-invert my-8 text-sm">
+        <div class="my-8 text-sm prose timeline-end timeline-box dark:border-base-content/60 dark:prose-invert">
           <ul>
             {{ range .Pages }}
             <li>

@@ -21,7 +21,7 @@
   ><!-- Closing img tag -->
   {{- if .Get "link" }}</a>{{ end -}}
   {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
-    <figcaption>
+    <figcaption class="font-weight:500">
       {{ with (.Get "title") -}}
         <h4>{{ . }}</h4>
       {{- end -}}

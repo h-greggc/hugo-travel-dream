@@ -19,7 +19,7 @@ darkTheme = "forest"
 # backgroundImageDark = ""
 
 # author = "Dream"
-# description = ""
+description = "A personal travel-blog for sharing photos and stories."
 avatar = "img/avatar.JPEG"
 headerTitle = "Journey - TBA!"
 # motto = ""
@@ -41,23 +41,24 @@ email = "hgclaycamp@gmail.com"
 
 siteStartYear = 2025
 
-# favicon = "favicon.ico"
+favicon = "favicon.ico"
 
 # Syntax highlighting
 # customSyntaxHighlighting = true
 
 # options
-stickyNav = true
+stickyNav = false
 # reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
 # collapseNavItems = ["posts", "categories", "tags"]
 # noDefaultSummaryCover = true
 showTableOfContents = true
 showSummaryCoverInPost = true
-# imageZoomableInPost = true
+imageZoomableInPost = true
 showPrevNextPost = true
-# reorderShares = []
+# reorderShares = []S
 
 # [params.navItems]
+# docs = { href = "/content/docs", icon= "", title = "Docs" }
 
 # [params.twikoo]
 # enabled = true
@@ -67,7 +68,8 @@ showPrevNextPost = true
 
 # [params.advanced]
 customCSS = ["css/custom.css"]
-# customJS = []
+customJS = ["js/custom.js"]
+
 
 # [params.experimental]
 # jsDate = true
