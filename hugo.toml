@@ -47,7 +47,7 @@ favicon = "favicon.ico"
 # customSyntaxHighlighting = true
 
 # options
-stickyNav = false
+stickyNav = true
 # reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
 # collapseNavItems = ["posts", "categories", "tags"]
 # noDefaultSummaryCover = true
@@ -57,8 +57,10 @@ imageZoomableInPost = true
 showPrevNextPost = true
 # reorderShares = []S
 
-# [params.navItems]
-# docs = { href = "/content/docs", icon= "", title = "Docs" }
+[params.navItems]
+github = { href = "https://github.com/g1eny0ung", target = "_blank",  title = "GitHub" }
+docs = { href = "https://gohugo.io/documentation/", target = "_blank",title = "Documents" }
+
 
 # [params.twikoo]
 # enabled = true
