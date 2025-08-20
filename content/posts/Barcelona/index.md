@@ -48,7 +48,7 @@ Barcelona: the EU's fifth most populous city and one of the largest on the Medit
  width="85%"
  >}}
 
-#### Picasso's homework
+### Picasso's homework
 
 Picasso's most famous works are in the Louvre and the Reina de Sofia Museum in Madrid. But, the collection in Barcelona captures a treasure trove of his numerous sketch books and earlier paintings when he lived in Barcelona in the quarter encompassing today's museum. The Pablo Picasso Museum in Barcelona is well worth an easy online reservation (in case it's busy) and a GPS-challenging trek into the Gothic Quarter. The streets are medieval-narrow, at times feeling like you can touch both sides while standing in the center of the _carrer_[^1]. 
 
