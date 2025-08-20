@@ -72,7 +72,7 @@ cls        {{ partialCached "adsense.html" . }}
           {{ if $hasAuthor }}
             {{ partial "author.html" (dict "Params" .Params "template" "single") }}
           {{ end }}
-{{/*  Removed shares from posts:  */}}
+<!--  Removed shares from posts:  -->
           {{/*  {{ partial "share.html" . }}  */}}
         </div>
       </header>

@@ -2,7 +2,7 @@
 title: Our Tour
 date: 2025-08-01T07:08:58-05:00
 # lastmod: 2025-08-01T07:08:58-05:00
-# author: Author Name
+author: Gregg Claycamp
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: Spain-sites.png
@@ -12,8 +12,7 @@ categories:
   - Spain
   - Portugal
 tags:
-  - tag1
-  - tag2
+ 
 nolastmod: true
 # math: true
 draft: false
@@ -24,43 +23,27 @@ params:
 weight: 1
 ---
 
-Our experiences on a Collette tour of the "Spain Classics and Portugal"
+This blog records some of my experiences on our recent [Collette](https://www.gocollette.com/en) tour of _The Spain Classics and Portugal_.[^1] I placed pins on the featured map (above) covering some of the cities and regions that we toured. The tour sometimes felt like drinking culture and sites from a firehose; however, the knowledgeable tour manager and local guides held our interest. It didn't hurt that we had gorgeous, bright-blue days and pleasant temps for the trip, including a 56 &#176;F morning in Madrid! 
 
-| Dates  | Location                                        |
-|--------|-------------------------------------------------|
-| May 10 | [Barcelona](/posts/Barcelona)                   |
-| May 13 | Barcelona-Peniscola-Valencia                    |
-| May 14 | [Valencia](/posts/Valencia)-Albufera-Valencia   |
-| May 15 | Valencia-Granada                                |
-| May 16 | Granada-Seville                                 |
-| May 17 | [Seville](/posts/Seville)                       |
-| May 18 | Seville-[Cordoba](/posts/Cordoba)-Madrid        |
-| May 19 | [Madrid](/posts/Madrid)                         |
-| May 20 | Madrid-[Toledo](/posts/Toledo)-Elvas, Portugal  |
-| May 21 | Elvas-Lisbon                                    |
-| May 22 | [Lisbon](/posts/Lisbon)                         |
-| May 23 | Lisbon-[Obidos, Portugal](/posts/Obidos)-Lisbon |
-| May 24 | Lisbon-tour end                                 |
+The following table highlights the itinerary. Links to the stories are present (where possible.) The last column shows my recorded steps each day. The bus travel days were _only_ in the 8,000+ range. The lowest day reflected just hanging out in Lisbon! 
+
+
+| Dates  | Location                                        |  Steps  |
+|--------|-------------------------------------------------|---------|
+| May 10 | [Barcelona](/posts/Barcelona)                   | 14,237  |
+| May 13 | Barcelona-Peniscola-Valencia                    | 14,223  |
+| May 14 | [Valencia](/posts/Valencia)-Albufera-Valencia   |   8,687 |
+| May 15 | Valencia-Granada                                | 14,054  |
+| May 16 | Granada-Seville                                 |   8,905 |
+| May 17 | [Seville](/posts/Seville)                       | 11,753  |
+| May 18 | Seville-[Cordoba](/posts/Cordoba)-Madrid        |   9,558 |
+| May 19 | [Madrid](/posts/Madrid)                         |   9,305 |
+| May 20 | Madrid-[Toledo](/posts/Toledo)-Elvas, Portugal  | 11,344  |
+| May 21 | Elvas-Lisbon                                    | 10,922  |
+| May 22 | [Lisbon](/posts/Lisbon)                         |   8,454 |
+| May 23 | Lisbon-[Obidos, Portugal](/posts/Obidos)-Lisbon |   9,837 |
+| May 24 | Lisbon-tour end                                 |   9,695 |
 
 : Itinerary
 
-
-
-| Tour Day | Sites                           |  Steps           |
-|----------|---------------------------------|------------------|
-| May 11   |Barcelona                        | 14,237           |
-| May 12   |Barcelona                        | 14,223           |
-| May 13   |Barcelona - Peniscola - Valencia |  8,687           |
-| May 14   |Valencia - Albufera - Valencia   | 14,054           |
-| May 15   |Valencia - Granada               |  8,905           |
-| May 16   |Granada - Seville                | 11,753           |
-| May 17   |Seville                          |  9,558           |
-| May 18   |Seville - Cordoba - Madrid       |  9.305           |
-| May 19   |Madrid                           | 11,344           | 
-| May 20   |Madrid - Toledo - Elvas, Portugal| 10,922           |
-| May 21   |Elvas - Lisbon                   |  8,454           |
-| May 22   |Lisbon                           |  9,837           |
-| May 23   |Lisbon - Obidos - Lisbon         |  6,066           |
-| May 24   |Lisbon - Tour end                |  9,695           |
-
-:Daily Steps
+[^1]: This work and website is not a Collette product nor is the work sponsored by Collette Tours in any manner. 

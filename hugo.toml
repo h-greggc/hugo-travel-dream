@@ -18,7 +18,7 @@ darkTheme = "forest"
 # backgroundImage = "img/Spain-sites.png"
 # backgroundImageDark = ""
 
-author = "Gregg Claycamp"
+# author = "Gregg Claycamp"
 description = "A personal travel-blog for sharing photos and stories."
 avatar = "img/avatar.JPEG"
 headerTitle = "Journey - TBA!"
@@ -41,7 +41,7 @@ email = "hgclaycamp@gmail.com"
 
 siteStartYear = 2025
 
-favicon = "favicon.ico"
+# favicon = "favicon.ico"
 
 # Syntax highlighting
 # customSyntaxHighlighting = true
@@ -59,10 +59,9 @@ showPrevNextPost = true
 
 [params.navItems]
 # series =  {href = "/about", target="_blank", icon = "planet", title = "Series" }
-github = {href="https://github.com/h-greggc/hugo-travel-dream", target = "_blank", icon = "logo-github", title = "GitHub" }
-collette ={href="https://www.gocollette.com/en", target="_blank", icon= "airplane-outline", title="Collette Tours"}
+github = {href="https://github.com/h-greggc/hugo-travel-dream", target = "_blank", icon="logo-github", title = "GitHub" }
+# collette ={href="https://www.gocollette.com/en", target="_blank", icon= "compass-outline", title="Collette Tours"}
 
-# [params.twikoo]
 # enabled = true
 # envID = ""
 # region = ""
