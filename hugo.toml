@@ -59,7 +59,7 @@ showPrevNextPost = true
 
 [params.navItems]
 github = { href = "https://github.com/g1eny0ung", target = "_blank",  title = "GitHub" }
-docs = { href = "https://gohugo.io/documentation/", target = "_blank",title = "Documents" }
+docs = { href = "https://gohugo.io/documentation/", target = "_blank", title = "Documents" }
 
 
 # [params.twikoo]
