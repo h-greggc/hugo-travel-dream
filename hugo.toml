@@ -48,8 +48,8 @@ favicon = "favicon.ico"
 
 # options
 stickyNav = true
-# reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
-# collapseNavItems = ["posts", "categories", "tags"]
+reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags", "github" ]
+# collapseNavItems = [ "posts", "categories", "tags"]
 # noDefaultSummaryCover = true
 showTableOfContents = true
 showSummaryCoverInPost = true
@@ -58,8 +58,8 @@ showPrevNextPost = true
 # reorderShares = []S
 
 [params.navItems]
-github = { href = "https://github.com/g1eny0ung", target = "_blank",  title = "GitHub" }
-docs = { href = "https://gohugo.io/documentation/", target = "_blank", title = "Documents" }
+# series =  {href = "/about", target="_blank", icon = "planet", title = "Series" }
+github = {href="https://github.com/h-greggc/hugo-travel-dream", target = "_blank", icon = "logo-github", title = "GitHub" }
 
 
 # [params.twikoo]
@@ -68,7 +68,7 @@ docs = { href = "https://gohugo.io/documentation/", target = "_blank", title = "
 # region = ""
 # lang = ""
 
-# [params.advanced]
+[params.advanced]
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
 

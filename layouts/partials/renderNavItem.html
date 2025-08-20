@@ -9,7 +9,7 @@
 {{ end }}
 {{ end }}
 
-{{/*  Default navItems fully coded here  */}}
+<!-- Default navItems fully coded here  -->
 {{ else if and (eq . "search") (gt (len (where site.Pages "Type" "search")) 0) }}
   <a class="inline-flex items-center p-2 rounded-full cursor-pointer group hover:bg-primary" href="{{ "search" | relLangURL }}" title="{{ T "search" }}">
     <ion-icon class="group-hover:text-primary-content" name="search"></ion-icon>
@@ -33,8 +33,10 @@
 {{ else }}
   {{ $navItems := site.Params.navItems }}
   {{ $item := index $navItems . }}
+
     {{ with $item }}
-      {{ if .icon }}
+  
+    {{ if .icon }}
         <a class="inline-flex items-center p-2 rounded-full cursor-pointer group hover:bg-primary" href="{{ .href }}" target="{{ .target }}" title="{{ .title }}">
         <ion-icon class="group-hover:text-primary-content" name="{{ .icon }}"></ion-icon>
         </a>

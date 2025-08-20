@@ -14,7 +14,7 @@
 
 {{ else if and (eq . "search") (gt (len (where site.Pages "Type" "search")) 0) }}
 <li>
-  <a class="group inline-flex items-center p-2 cursor-pointer" href="{{ "search" | relLangURL }}" title="{{ T "search" }}">
+  <a class="inline-flex items-center p-2 cursor-pointer group" href="{{ "search" | relLangURL }}" title="{{ T "search" }}">
     <ion-icon name="search"></ion-icon>
     {{ T "search" }}
   </a>
@@ -38,6 +38,7 @@
   <a class="inline-flex items-center p-2 cursor-pointer" href="{{ "categories" | relLangURL }}" title="{{ T "allCategories" }}">
     <ion-icon name="grid"></ion-icon>
     {{ T "allCategories" }}
+
   </a>
 </li>
 {{ else if and (eq . "tags") site.Taxonomies.tags }}
@@ -52,6 +53,7 @@
 {{ $item := index $navItems . }}
 {{ with $item }}
 <li>
+{{ .icon }}
   <a class="inline-flex items-center p-2 cursor-pointer" href="{{ .href }}" target="{{ .target }}" title="{{ .title }}">
     {{ if .icon }}
     <ion-icon name="{{ .icon }}"></ion-icon>
