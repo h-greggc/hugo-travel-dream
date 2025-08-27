@@ -43,8 +43,8 @@ Rebecca and I dropped off our luggage and laced our walking shoes for an afterno
 
 Our target gallery was a easy 2.1km (1.3mi) from the hotel, walking partly on _La Rambla_, a.k.a. _Les Rambles_ and perhaps Barcelona's most well-known boulevard for shopping, eating, playing, pick-pocketing, and simply getting a feel for such an exciting city! Barcelona: the EU's fifth most populous city and one of the largest on the Mediterranean. 
 
-{{< figure src="hotel-to-picasso-map.png" link="hotel-to-picasso-map.png" caption="Googlemap's notion of our walk to the Picasso Museum. We wandered a bit off the plan...**\<click map to enlarge\>**" 
- width="85%"
+{{< figure src="hotel-to-picasso-map.png" link="hotel-to-picasso-map.png" caption="Googlemap's notion of our walk to the Picasso Museum. We wandered a bit off the plan **\<click map to enlarge\>.**" 
+ width="85%" align="center"
  >}}
 
 ### Picasso's homework
@@ -89,7 +89,7 @@ The Basilica de [Sagrada Familia](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%A
 {{< two-figures >}}
 {{< figure 
   class="column"
-  src="0512-gaudi-house.jpeg" caption="An example of Antoni Gaudi houses in Barcelone." 
+  src="0512-gaudi-house.jpeg" caption="An example of Antoni Gaudi houses in Barcelona." 
 >}}
 
 {{< figure 

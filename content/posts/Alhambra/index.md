@@ -1,5 +1,5 @@
 ---
-title: The Alhambra
+title: Alhambra
 date: 2025-06-27T12:44:52-05:00
 lastmod: 2025-06-27T12:44:52-05:00
 # author: Gregg Claycamp
@@ -76,11 +76,13 @@ including  complex includes several palaces, gardens, and fortifications, with t
 
 It is important to reflect on God's wisdom and beauty. The Moorish architects designed many quiet relection spots throughout Alhambra's palaces. Some include water features, while others are thoughtfully designed gardens. 
 
-{{< figure
+{{< img
   src="reflecting-on-gods-beauty.jpg"
   link="reflecting-on-gods-beauty.jpg"
+  class="full-bleed"
+  align="center"
   caption="The occupants and visitors had ample space for reflection before, say, meeting with the Emir."
-  width="80%"
+  width="75%"
   >}}
 
 ### Fortifications
