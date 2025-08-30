@@ -43,7 +43,6 @@ Rebecca and I dropped off our luggage and laced our walking shoes for an afterno
 
 Our target gallery was a easy 2.1km (1.3mi) from the hotel, walking partly on _La Rambla_, a.k.a. _Les Rambles_ and perhaps Barcelona's most well-known boulevard for shopping, eating, playing, pick-pocketing, and simply getting a feel for such an exciting city! Barcelona: the EU's fifth most populous city and one of the largest on the Mediterranean. 
 
-{{< figure src="hotel-to-picasso-map.png" link="hotel-to-picasso-map.png" caption="Googlemap's notion of our walk to the Picasso Museum. We wandered a bit off the plan **\<click map to enlarge\>.**" 
  width="85%" align="center"
  >}}
 
@@ -79,7 +78,7 @@ When the brochure "copy" in our formal tour pamphlet says that a city "was meant
 - Placa Catalonia (with ever-present Catalonian Socialist rallies!)
 - A panoramic bus tour of locations en route to Sagrada Familia
 
-Clearly, we were kept on the move. I wonder, if had I relied on my 1980s era SLR camera, woudl most of my pictures be out of focus due to the lack of time in front of photogenic sites? No time to focus! Fortunately, modern smartphone cameras are ready to go--almost prefocused and framed for each shot. 
+Clearly, we were kept on the move. I wonder, had I needed to rely on my 1980s era SLR camera, would my pictures be out of focus due to the lack of time we had in front of photogenic sites: No time to focus! Fortunately, modern smartphone cameras are ready to go--almost prefocused and framed for each shot. Some of our fellow travelers would end up with several _thousand_ photos in search of the perfect chance shot! 
 
 Our "best viewed on foot" tour of Barcelona logged `14,223` steps at a good pace through the best parts of the city.
 ### Antoni Gaudi: Barcelona's Architect
@@ -108,9 +107,28 @@ Gaudi had three major passions that course through all of his work: architecture
 
 <br>
 
-{{< figure 
-    src="0512-la-sagrada-familia-north-facade.JPEG" link="0512-la-sagrada-familia-north-facade.JPEG" caption="The ornate, almost surrealistic north portico at La Sagrada Familia. **\<click twice on photo to zoom in on the statuary!\>**" 
+{{< img 
+    src="0512-la-sagrada-familia-north-facade.JPEG" 
+    class="full-bleed"
+    align="center"
+    link="0512-la-sagrada-familia-north-facade.JPEG" caption="The ornate, almost surrealistic north portico at La Sagrada Familia. **\<click twice on photo to zoom in on the statuary!\>**"
+    width="75%" 
 >}}
+
+A major challenge interested viewers have in visiting a generations-long architectural  project is bridging the gap between the construction to date and the completed, "visionary" work. For example, the cover picture for this story was downloaded (and attributed!) from a photographer who took the time to digitally erase the abundant overheal cranes and cables. Nevertheless, there is still some scaffolding remaining along a spire on the left. The incomplete construction atrifacts also challenge the "selfie" taker, as visible in the following image. 
+
+{{< img 
+  src="0512-la-sagrada-familia1.jpg" 
+  link="0512-la-sagrada-familia1.jpg" 
+  align="center"
+  width="70%"
+  caption="I've never been much of a selfie artist; but the remaining construction on the cathedral is challenging for even the best \"selfieist?\" for finding a view that is both accessible and free of scaffoling, cranes, and (of course) other tourists!"
+  >}}
+
+### Inside *La Sagrada Familia* 
+The exterior facades of La Sagrada Familia are spectacular and of a grand scale. But the almost excessive statuary and other adornments make the portals feel smaller and close as you enter the cathredral. This makes you unprepared for the architectural scale of the interior! Once inside, you are almost swept up toward the heavens by the high ceilings supported by sweeping and tapered modern columns--no staid, corinthian-topped columns in sight! The columns finish in the upper reaches with sweeping branch designs rather than connections to gothic arches. SPECTACULAR!  
+
+
 
 
 ## Tuesday, May 13: Barcelona - Peniscola - Valencia
