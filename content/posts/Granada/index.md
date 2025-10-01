@@ -17,7 +17,7 @@ tags:
   - UNESCO World Heritage
 nolastmod: true
 draft: false
-weight: 28
+weight: 32
 params:
   toured: 
     start:  2025-05-15

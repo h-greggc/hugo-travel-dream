@@ -19,7 +19,6 @@ tags:
   - Moors
 # nolastmod: true
 draft: false
-weight: 20
 params:
   toured: 
     start: 2025-05-16

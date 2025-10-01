@@ -2,7 +2,9 @@
      by the MIT license */}}
 
 <figure {{ with .Get "class" }}class="{{.}}"{{ end }}>
-
+{{/*    {{- if .Get "link" -}}
+    <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
+  {{- end -}}  */}}
     {{ with .Get "align" }}<div align="{{.}}">{{ end }}
         {{ with .Get "href" }}<a href="{{.}}">{{ end }}
             <img src="{{ or (.Get "src") (.Get 0) }}"
@@ -37,7 +39,7 @@
                 {{ end }}
 
             </figcaption>
-            {{ end }}
+            {{ end }}  
 
     {{ if isset .Params "align" }}</div>{{ end }}
     {{ if isset .Params "href" }}</a>{{ end }}

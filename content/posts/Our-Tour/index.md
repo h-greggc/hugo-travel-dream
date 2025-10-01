@@ -29,7 +29,7 @@ The following table highlights the itinerary. Links to the stories are present (
 
 
 | Dates  | Location                                        |  Steps  |
-|--------|-------------------------------------------------|---------|
+|:--------|:-------------------------------------------------|---------:|
 | May 10 | [Barcelona](/posts/Barcelona)                   | 14,237  |
 | May 13 | Barcelona-Peniscola-Valencia                    | 14,223  |
 | May 14 | [Valencia](/posts/Valencia)-Albufera-Valencia   |   8,687 |

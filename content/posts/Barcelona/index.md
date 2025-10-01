@@ -43,8 +43,6 @@ Rebecca and I dropped off our luggage and laced our walking shoes for an afterno
 
 Our target gallery was a easy 2.1km (1.3mi) from the hotel, walking partly on _La Rambla_, a.k.a. _Les Rambles_ and perhaps Barcelona's most well-known boulevard for shopping, eating, playing, pick-pocketing, and simply getting a feel for such an exciting city! Barcelona: the EU's fifth most populous city and one of the largest on the Mediterranean. 
 
- width="85%" align="center"
- >}}
 
 ### Picasso's homework
 
@@ -58,13 +56,12 @@ Picasso's most famous works are in the Louvre and the Reina de Sofia Museum in M
 
 {{< figure 
   class="column"
-  src="0511-picasso-new-style.jpg" link="https://museupicassobcn.cat/en" caption="An early example of one of Pablo Picasso's more recognizable styles." 
+  src="0511-picasso-new-style.jpg" link="https://museupicassobcn.cat/en" caption="An early example of a painting that influenced Pablo Picasso's more recognizable style." 
 >}}
-
 {{< /two-figures >}}
 
 
-"Barcelona in the 'high season' translates to mean crowd--of course! Walking on the most popular streets and narrow pedestrian-only streets in the Gothic Quarter is challenging to a fast walker-like me. Nevertheless, we managed to log `14,237` steps that first half day. 
+"Barcelona in the 'high season' translates to mean "crowded"--of course! Walking on the most popular streets and narrow pedestrian-only streets in the Gothic Quarter is challenging to a fast walker-like me. Nevertheless, we managed to log `14,237` steps that first half day. 
 
 ## Monday, May 12: Barcelona on foot
 
@@ -88,22 +85,23 @@ The Basilica de [Sagrada Familia](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%A
 {{< two-figures >}}
 {{< figure 
   class="column"
-  src="0512-gaudi-house.jpeg" caption="An example of Antoni Gaudi houses in Barcelona." 
+  src="0512-gaudi-house.jpeg" 
+  caption="An example of Antoni Gaudi houses in Barcelona." 
 >}}
 
 {{< figure 
   class="column"
-  src="0512-gaudi-house2.jpeg" link="0512-gaudi-house2.jpeg" caption="Magnified view of the Gaudi house. Gaudi's houses are very detailed and complex in architectural design. **\<click twice on photo to zoom!\>**" 
+  src="0512-gaudi-house2.jpeg" 
+  href="0512-gaudi-house2.jpeg" 
+  caption="Magnified view of the Gaudi house. Gaudi's houses are very detailed and complex in architectural design. **\<click twice on photo to zoom!\>**" 
 >}}
 
 {{< /two-figures >}}
 
+Gaudi had three major passions that course through all of his work: architecture, nature, and God. The culmination of his weaving the three passions together is in the Basilica de la Sagrada Familia, started in 1882. Its targeted completion is 2026, but my firsthand observation is that finishing in 2026 is an overly-optimistic goal! Although the church is a sanctioned project of the Catholic Church, it must be built on donations and volunteerism. That's why it is still under construction even after 143 years of work! Moreover, the rights to the surrounding areas have not been fully secured. For example, the doorways in the eastern facade are a dozen or more feet off the pavement--a sidewalk on busy side street. Presently, the only way to use the facade entrance is by ladder! Fortunately, the northern and southern porticos are open for business (LOL)! 
 
 
-Gaudi had three major passions that course through all of his work: architecture, nature, and God. The culmination of his weaving the three passions together is in the Basilica de la Sagrada Familia, started in 1882. Its targeted completion is 2026, but my firsthand observation is that finishing in 2026 is an overly-optimistic goal! Although the church is a sanctioned project of the Catholic Church, it must be built on donations and volunteerism. That's why it is still under construction even after 143 years of work! Moreover, the rights to the surrounding areas have not been fully secured. For example, the doorways in the eastern facade are a dozen or more feet off the pavement--a sidewalk and busy side street. Presently, the only way to use the facade entrance is by ladder!! Fortunately, the northern and southern porticos are open for business (LOL)! 
-
-
-> The surrealist artist, Salvador Dali, once commented that Gaudi possessed “superbly creative bad taste.” But far from a critic, Dali admired the architect and also said  “In Passeig de Gràcia you will find sensational examples of this type of delirious architecture, true solidified Debussian music![^3]."
+> _The surrealist artist, Salvador Dali, once commented that Gaudi possessed “superbly creative bad taste.” But far from a critic, Dali admired the architect and also said  “In Passeig de Gràcia you will find sensational examples of this type of delirious architecture, true solidified Debussian music![^3]_."
 
 <br>
 
@@ -111,37 +109,49 @@ Gaudi had three major passions that course through all of his work: architecture
     src="0512-la-sagrada-familia-north-facade.JPEG" 
     class="full-bleed"
     align="center"
-    link="0512-la-sagrada-familia-north-facade.JPEG" caption="The ornate, almost surrealistic north portico at La Sagrada Familia. **\<click twice on photo to zoom in on the statuary!\>**"
-    width="75%" 
+    href="0512-la-sagrada-familia-north-facade.JPEG" 
+    caption="The ornate, almost surrealistic north portico at La Sagrada Familia. <b>click twice on photo to zoom in on the statuary!<\b>"
+    width="75%"
 >}}
 
-A major challenge interested viewers have in visiting a generations-long architectural  project is bridging the gap between the construction to date and the completed, "visionary" work. For example, the cover picture for this story was downloaded (and attributed!) from a photographer who took the time to digitally erase the abundant overheal cranes and cables. Nevertheless, there is still some scaffolding remaining along a spire on the left. The incomplete construction atrifacts also challenge the "selfie" taker, as visible in the following image. 
+A major challenge for interested viewers face with a generations-long architectural  project is in bridging the gap between the construction to date and the completed, "visionary" work. For example, the cover picture for this story was downloaded (and attributed!) from a photographer who took the time to digitally erase the abundant overheal cranes and cables. Nevertheless, there is still some scaffolding remaining along a spire on the left. The incomplete construction atrifacts also challenge the "selfie" taker, as visible in the following image. 
 
 {{< img 
   src="0512-la-sagrada-familia1.jpg" 
-  link="0512-la-sagrada-familia1.jpg" 
+  href="0512-la-sagrada-familia1.jpg" 
   align="center"
   width="70%"
   caption="I've never been much of a selfie artist; but the remaining construction on the cathedral is challenging for even the best \"selfieist?\" for finding a view that is both accessible and free of scaffoling, cranes, and (of course) other tourists!"
+
   >}}
 
-### Inside *La Sagrada Familia* 
-The exterior facades of La Sagrada Familia are spectacular and of a grand scale. But the almost excessive statuary and other adornments make the portals feel smaller and close as you enter the cathredral. This makes you unprepared for the architectural scale of the interior! Once inside, you are almost swept up toward the heavens by the high ceilings supported by sweeping and tapered modern columns--no staid, corinthian-topped columns in sight! The columns finish in the upper reaches with sweeping branch designs rather than connections to gothic arches. SPECTACULAR!  
+### Inside La Sagrada Familia 
+The exterior facades of La Sagrada Familia are spectacular and they are of grand architectural scale. But the placement of almost excessive statuary and other adornments make the portals feel small and close as you enter the cathredral. This makes you unprepared for the architectural scale of the interior! Once inside, you are swept  toward the heavens by the high ceilings supported by sweeping and tapered modern columns--no staid, corinthian-topped columns in sight! The columns finish in their upper reaches with sweeping branch designs rather than by connections to gothic arches. No less than _SPECTACULAR!_  
 
 
+
+
+
+### The Windows: Color Pallets!
+
+
+
+
+![The interior color plan for the cathedral](https://upload.wikimedia.org/wikipedia/commons/3/3e/SagradaFamiliaPlanView.jpg)
+
+Plan figure attributed to Io Herodotus, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) via Wikimedia Commons.
 
 
 ## Tuesday, May 13: Barcelona - Peniscola - Valencia
 
 
-
-## On the road again
+### On the road 
 
 {{< figure alt="Spain roadtrip" src="Spain-roadtrip-med.jpg" link="Spain-roadtrip-med.jpg" caption="A view of the road in Spain, with mountains in the distance. This is a placeholder image for the road trip." width="100%" >}}
 
 
 
 
-[^1]:Catalan is the official version of SPanish in Barcelona. _Carrer_ is the translation of the Spanish (Castillian) word for street: _calle_.
+[^1]:Catalan is the official version of Spanish in Barcelona. _Carrer_ is the translation of the Spanish (Castillian) word for street: _calle_.
 [^2]: I recommend viewing inside and outside of a Gaudi house. For example, [Casa Batlló](https://en.wikipedia.org/wiki/Casa_Batll%C3%B3).
 [^3]:   S. Dalí, _To Spain_, guided by Dalí. **Vogue** (Greenwich CT). May 15, 1950.
