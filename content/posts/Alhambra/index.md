@@ -26,7 +26,7 @@ params:
 # featured: true 
   
 ---
-{{< toured-on >}}  
+ 
 Granada, Spain, is the site of the Alhambra.  Alhambra is a palace and fortress complex that was originally built in 889 AD on the remains of a Roman fort. It was later renovated and rebuilt in the mid-13th century by the Nasrid emir Mohammed ben Al-Ahmar, the first king of the Nasrid dynasty. The Alhambra is renowned for its stunning Islamic architecture, intricate tile work, and beautiful gardens.
 Restored beginning in the 19th century, Alhambra provides a lasting imprint of history of Muslim rulers in Adulusian Iberia.
 

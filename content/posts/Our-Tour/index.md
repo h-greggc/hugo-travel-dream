@@ -30,11 +30,13 @@ The following table highlights the itinerary. Links to the stories are present (
 
 | Dates  | Location                                        |  Steps  |
 |:--------|:-------------------------------------------------|---------:|
-| May 10 | [Barcelona](/posts/Barcelona)                   | 14,237  |
-| May 13 | Barcelona-Peniscola-Valencia                    | 14,223  |
-| May 14 | [Valencia](/posts/Valencia)-Albufera-Valencia   |   8,687 |
-| May 15 | Valencia-Granada                                | 14,054  |
-| May 16 | Granada-Seville                                 |   8,905 |
+| May 10 | To [Barcelona](/posts/Barcelona) (overnight)       |   |
+| May 11 | Barcelona                                       | 14,237 |
+| May 12 | Barcelona                                       | 14,223 |
+| May 13 | Barcelona-Peniscola-Valencia                    | 8,687  |
+| May 14 | [Valencia](/posts/Valencia)-Albufera-Valencia   |   14,054 |
+| May 15 | Valencia-Granada                                |   8,905|
+| May 16 | Granada-Seville                                 |    |
 | May 17 | [Seville](/posts/Seville)                       | 11,753  |
 | May 18 | Seville-[Cordoba](/posts/Cordoba)-Madrid        |   9,558 |
 | May 19 | [Madrid](/posts/Madrid)                         |   9,305 |
