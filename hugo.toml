@@ -47,7 +47,7 @@ siteStartYear = 2025
 # customSyntaxHighlighting = true
 
 # options
-stickyNav = true
+stickyNav = false
 reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags", "github" ]
 # collapseNavItems = [ "posts", "categories", "tags"]
 # noDefaultSummaryCover = true
