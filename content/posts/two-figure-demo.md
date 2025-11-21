@@ -1,5 +1,5 @@
 ---
-title: Two Figure Demo
+title: Two-Figure Demo
 date: 2024-01-01
 lastmod: 2025-07-19T08:05:59-05:00
 # author: Gregg Claycamp
@@ -136,5 +136,5 @@ Note that the two figure calls in the above code box and in your markdown file a
 
 ### A bit of following text
 
-This paragraph is added to expose any `css` styling conflicts that might occur after adding new css styles to the existing theme styles. During testing, some following text overlapped the `Previous` and `Next` buttons.
+This paragraph is added to expose any `css` styling conflicts that might occur after adding new css styles to the existing theme styles. During testing, some following text overlapped the `Previous page` and `Next page` buttons, below.
 

@@ -51,7 +51,7 @@ For Knights Templar fans, the castle at Peniscola was a one of their series of f
   width="70%"
   >}}
 
-## Quick lunch in a leisure dining venue!
+## A quick lunch in a leisurely dining culture?
 
 Our travel day left us only enough time for a quick walking tour and seaside lunch. The quick walking tour of the rock was easy because "Valencia's Gibraltar" is very small! Lunch was a bit more challenging to accomplish during a brief visit due to Spain's preference for drawn out meals with plenty of table conversation. We joined another couple for seafood served above the Mediterranean. Rebecca enjoyed a poached cuttlefish, while I had a grilled, whole "sea bass."  (I was reminded that seemingly half of the world's bony and scaly fish are labeled "bass" out of convenience for the consumer. I believe that actually at a _bronzini_.or _branzano_.)[^4] This distinction is important to a sometimes striper fisherman! 
 

@@ -100,3 +100,10 @@
       margin-top: 0.8571429em;
       
     }
+
+
+ 
+/* Card title */
+.front .card-body .card-title{
+ font-size:24px;
+}     

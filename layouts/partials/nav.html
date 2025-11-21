@@ -1,7 +1,7 @@
 {{ if site.Params.stickyNav }}
 <nav x-data="{ isSticky: false }"
   x-init="window.addEventListener('scroll', () => { isSticky = window.scrollY > 30 })"
-  class="sticky top-0 z-30 py-4 mt-4 lg:mt-8 bg-white"
+  class="sticky top-0 z-30 py-4 mt-4 bg-white lg:mt-8"
   :class="{ 'bg-base-100 shadow-lg dark:border-b dark:border-base-content/30': isSticky }">
 {{ else }}
 <nav class="py-4 mt-4 lg:mt-8">
@@ -10,6 +10,7 @@
   <div class="container flex justify-between max-w-[65ch] mx-auto px-4 md:px-0">
   {{ else }}
   <div class="container flex justify-between px-4">
+
   {{ end }}
     <section class="flex items-center gap-4">
       <div class="cursor-pointer avatar hover:avatar-online" @click="flip = !flip" title="{{ T "flip" }}">

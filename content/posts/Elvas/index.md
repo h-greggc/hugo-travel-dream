@@ -8,7 +8,7 @@ lastmod: 2025-06-28T07:00:46-05:00
 cover: cover.webp
 # images:
 #   - /img/cover.jpg
-summary: Elvas, a city in Portugal, is renowned for its well-preserved medieval architecture and fortifications. The city's historic center is a UNESCO World Heritage site, showcasing impressive structures such as the Amoreira Aqueduct and the star-shaped fortifications that date back to the 17th century.
+summary: Elvas, a city in Portugal, is renowned for its well-preserved medieval architecture and fortifications. The city's historic center is a UNESCO World Heritage site, showcasing impressive structures such as the Amoreira Aqueduct and a star-shaped fortification that date back to the 17th century.
 categories:
   - Cities
   - Portugal
@@ -24,14 +24,15 @@ params:
     end:   2025-05-20
 nolastmod: true    
 ---
-{{< toured-on >}}  
 
-Elvas, a city in Portugal, is renowned for its well-preserved medieval architecture and fortifications. The city's historic center is a UNESCO World Heritage site, showcasing impressive structures such as the Amoreira Aqueduct and the star-shaped fortifications that date back to the 17th century. Elvas has a rich history, including a significant role in various military conflicts throughout the centuries. Elvas is small, with narrow mideaval streets most within view of the the city's walls. The blend of history and architecture makes Elvas a fascinating destination for those interested in Portugal's past.
+Elvas, a city on Spain's border with Portugal, is renowned for its well-preserved medieval architecture and fortifications. The city's historic center is a UNESCO World Heritage site, showcasing impressive structures such as the Amoreira Aqueduct and the star-shaped fortifications that date back to the 17th century. Elvas has a rich history, including a significant role in various military conflicts throughout the centuries. Elvas is small, with narrow mideaval streets most within view of the the city's walls. The blend of history and architecture makes Elvas a fascinating destination for those interested in Portugal's past.
 
-### We stayed in a convent
-Well, a "converted" convent. The hotel ...
+### We stayed in a convent 
+Well, a "converted" convent. The hotel was certainly as quiet as a convent.
 
-### Medieval aquaduct in the Roman style
+### Medieval aquaduct in the Roman style 
+
+Growing "metropolises" in midieval Spain often faced challenges fining enough water on 
 
 
 {{< figure 

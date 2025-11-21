@@ -24,11 +24,10 @@ params:
     start:  2025-05-20
     end:    2025-05-20
 ---
-{{< toured-on >}}  
 
-Toledo is a city in Spain, known for its rich history and cultural heritage. It was declared a World Heritage Site by UNESCO in 1986. The city is part of the autonomous community of Castilla-La Mancha since Spain was reorganized in 1978. The city is on a rock outcrop in a hairpin bend of the Tagus (_Tajo_ in Spanish) River, the longest river on the Iberian peninsula. The river becomes  known as the _Techa_ River as it flows into Portugal and through Lisbon on the way to the Atlantic. From nearby scenic roads the river gives Toledo the appearance of an island fortress. 
+Toledo, located in Spain, is renowned for its historical and cultural significance and was designated a UNESCO World Heritage Site in 1986. Since Spain’s administrative reorganization in 1978, the city has been part of the autonomous community of Castilla-La Mancha. Positioned on a rocky outcrop within a bend of the Tagus (Tajo) River—the longest river on the Iberian Peninsula—Toledo presents the appearance of an island fortress when viewed from nearby scenic routes. As the river continues into Portugal and passes through Lisbon, it is known as the Techa River.
 
 {{< googlemap "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d98001.22366836193!2d-4.0820038612073235!3d39.862180026061885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1752495299099!5m2!1sen!2sus" >}}
 
 
- The city is famous for its medieval architecture, including the Alcázar of Toledo, the Cathedral of Saint Mary of Toledo, and the Synagogue of Santa María la Blanca.
+ Like most of the medieval sites in Spain, Toledo is famous for its architecture that blends various cultures from the Iberian Peninsula's complicated history. Famous architectual sites include the Alcázar of Toledo, the Cathedral of Saint Mary of Toledo, and the Synagogue of Santa María la Blanca. During our brief visit, we toured thorugh the Cathedral of Saint Mary.  
