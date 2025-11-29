@@ -1,7 +1,9 @@
+
+theme= "dream"
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Gregg Claycamp'
-theme= "dream"
+
 
 # [services]
 # [services.disqus]
