@@ -107,3 +107,12 @@
 .front .card-body .card-title{
  font-size:24px;
 }     
+
+/* Paragraph */
+#dream-single-post-content figure p{
+ font-family:Palatino,'Palatino Linotype','Palatino LT STD','Book Antiqua',Georgia,serif;
+ font-weight:600;
+ font-size:16px;
+ font-style:italic;
+}
+
