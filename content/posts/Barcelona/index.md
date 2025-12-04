@@ -82,21 +82,16 @@ Our "best viewed on foot" tour of Barcelona logged `14,223` steps at a good pace
 
 The Basilica de [Sagrada Familia](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia) catholic church is a highly recognized and memorable landmark of Barcelona. In fact, the cathedral is often mistakenly called the _Cathedral of Barcelona_--which it is not. Rather, it is the dream project of the architect, [Antoni Gaudi](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) who was a visionary--perhaps eccentric--Spanish architect of the 19th century. Firsthand looks at his legacy works is a splendid reason _to go to Barcelona!_ The works include not only the Sagrada Familia, but also the _Gaudi Houses_[^2]. 
 
-{{< two-figures >}}
-{{< figure 
-  class="column"
-  src="0512-gaudi-house.jpeg" 
-  caption="An example of Antoni Gaudi houses in Barcelona." 
->}}
+
+
 
 {{< figure 
-  class="column"
   src="0512-gaudi-house2.jpeg" 
-  href="0512-gaudi-house2.jpeg" 
-  caption="Magnified view of the Gaudi house. Gaudi's houses are very detailed and complex in architectural design. **\<click twice on photo to zoom!\>**" 
+  link="0512-gaudi-house2.jpeg" 
+  caption="View of a Gaudi house. Gaudi's houses are very detailed and complex in architectural design. **\<click twice on photo to zoom!\>**" 
 >}}
 
-{{< /two-figures >}}
+
 
 Gaudi had three major passions that course through all of his work: architecture, nature, and God. The culmination of his weaving the three passions together is in the Basilica de la Sagrada Familia, started in 1882. Its targeted completion is 2026, but my firsthand observation is that finishing in 2026 is an overly-optimistic goal! Although the church is a sanctioned project of the Catholic Church, it must be built on donations and volunteerism. That's why it is still under construction even after 143 years of work! Moreover, the rights to the surrounding areas have not been fully secured. For example, the doorways in the eastern facade are a dozen or more feet off the pavement--a sidewalk on busy side street. Presently, the only way to use the facade entrance is by ladder! Fortunately, the northern and southern porticos are open for business (LOL)! 
 

@@ -28,19 +28,18 @@ params:
 ---
 {{< toured-on >}}
 
-
-
 The city is famous for its stunning architecture, including the Great Mosque of Córdoba, the Alcázar de los Reyes Cristianos, and the Roman Bridge.
 
 <!--more-->
 
-Cordoba is a city in southern, Andalusion Spain, known for its rich history and cultural heritage. It was declared a World Heritage Site by UNESCO in 1984. The city is famous for inspiring architecture of the Roman and Moorish periods, including the Great Mosque of Córdoba, the Alcázar de los Reyes Cristianos, and the Roman Bridge. It's often mistaken for a set from the "Game of Thrones" series; however, there were only two brief scenes were shot in the area. A more sustained use of ancient settings for the series included sites 5-15 miles from Cordoba.
+Cordoba is a city in Andalusion Spain, known for its rich history and cultural heritage. It was declared a World Heritage Site by UNESCO in 1984. The city is famous for inspiring architecture of the Roman and Moorish periods, including the Great Mosque of Córdoba, the Alcázar de los Reyes Cristianos, and the Roman Bridge. It's often mistaken for a set from the "Game of Thrones" series; however, there were only two brief scenes were shot in the area. A more sustained use of ancient settings for the series included sites 5-15 miles from Cordoba.
 
 ## The Mosque-Cathedral of Cordoba[^1] 
 
-_La Mezquita_ or the "Great Mosque of Córdoba"  was a completely unexpected cultural and architectural treat. The mosque was built in stages beginning in 785 and eventually growing to be about 5.5 acres of floor space. (That rivals small-city some convention halls for floor space!} It is believed to have been constructed on the ruins of Roman ruins and Visigoth church; however, that early history is debated among scholars. There were several periods of construction of the mosque halls. A well-prepared tour guide will point out the subtle transitions in the columns and arches as a result of evolving deigns and the period's available materials. 
+_La Mezquita_ or the "Great Mosque of Córdoba"  is an unexpected cultural and architectural treat. The mosque was built in stages beginning in 785 and eventually growing to be about 5.5 acres of floor space. (That rivals small-city some convention halls for floor space!} It is believed to have been constructed on the ruins of Roman a Roman temple and Visigoth church; however, that early history is debated among scholars. There were several periods of construction of the mosque halls now visible as five distinct zones. A well-prepared tour guide will point out the some of the subtle transitions in the columns, capitals and arches. Elsewhere, the transitions "pop" as a result of evolving designs and changes in the sources of stone and marble. 
 
-As you walk through the halls, the number of moorish arches is staggering ---each one in red and white alternating stripes which I have been told  recognizes good and evil in the world.   
+As you walk through the halls, the number of moorish arches is staggering---each arch in red and white alternating stripes which were used to visually amplify the graceful arches. It is often called a "forest of columns" on travel websites---an apt description of the feeling one gets in walking the halls.  
+
 
 {{< figure 
   src= "1626px-Mezquita_de_Córdoba_desde_el_aire_(Córdoba,_España).jpg" 
@@ -54,14 +53,17 @@ As you walk through the halls, the number of moorish arches is staggering ---eac
   width= "100%"
 >}}
 
-{{< figure
+
+
+Our tour guides said that the "royals" and "cardinals" of the _Reconquista_ period were great recyclers: it is economical to repurpose key buildings rather than start over just to satisfy contemporary design aesthetics. Taken alone, the sudden transformation from a mosque to a gothic cathedral draws the viewer into searching for more subtleties of the architectural transition. I was left feeling that the Catholic builders were not overly concerned with an aesthetically organized  transitions from Islamic to Catholic traditions. There are Islamic single- and double-arches supporting gothic roofing arches and even Moorish arches on one side of a chapel while Gothic arches support the other side.
+According to [Wikipedia](https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba), the christians began using the mosque "as is" shortly after the _Reconquista_ and it was in the 1600s that the Catholic cathedral was built within the mosque's walls.
+
+{{< figure 
   src="Church-of-the-mosque-transition-Cordoba.JPEG"
   link="Church-of-the-mosque-transition-Cordoba.JPEG"
-  caption="transition"
-  >}}
+  caption="One of many interesting and abrupt visual transitions from mosque to cathedral architecture. The two-tiered arches on the left abutt the gothic cathedral on the right."
+>}}
 
-Our tour guides said that the "royals" and "cardinals" of the _La Reconquista_ period were recyclers: it is economical to repurpose key buildings rather than start over just to satisfy contemporary design aesthetics. Taken alone, the sudden transformation from a mosque to a gothic cathedral draws the viewer into searching for more subtleties of the architectural transition. I was left feeling that the Catholic builders were not overly concerned with an aesthetically organized  transitions from Islamic to Catholic traditions. There are Islamic single- and double-arches supporting gothic roofing arches and even Moorish arches on one side of a chapel while Gothic arches support the other side.
-According to [Wikipedia](https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba), the christians began using the mosque "as is" shortly after the _Reconquista_ and it was in the 1600s that the Catholic cathedral was built within the mosque's walls.
 
 {{< figure 
   src="Church-of-the-mosque-spire-Cordoba.JPEG" 
@@ -74,10 +76,26 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_
 
 Surviving Roman artifacts most famously include the Roman Bridge as a entry to the southern gate of Cordoba. As a former resident of the Washington, DC, metro area, I can't help but notice the staying power of Roman bridge designs.  
 
+{{< figure
+  src= "roman-bridge-approach-cordoba.JPEG"
+  link= "roman-bridge-approach-cordoba.JPEG"
+  caption= "My awkward view of the Roman bridge to Codoba--(where the tour bus can park often sets the initial view of a site). The Mosque-Cathedral is in the background, right, including the (more distant) spire peaking over the sanctuary roof."
+
+>}}
+
 
 ## The Jewish Quarter
 
-One major theme that one leaves with from Adalusian Spain with is the ubiquitous "Jewish Quarters" within the historic centers of cities. 
+One major theme that one leaves with from Adalusian Spain with is the ubiquitous "Jewish Quarters" within the historic centers of cities. Cordoba offers a charming Jewish Quarter complete with white-washed walls, narrow, maze-like streets that often end in cul-de-sacs, and plenty of flowers in planters along the walls. We enjoyed a brief tour of a typical upperclass home with a courtyard and a look at some of the oldest streets in town. We had only a brief visit, but at least we had time to spend with friends dining al-fresco in the quarter.
+
+{{< figure
+  src= "mosque-church-spire-from-jewish-quarter.JPEG"
+  link= "mosque-church-spire-from-jewish-quarter.JPEG"
+  caption= "We're off to the white-washed walls and narrow streets of Cordoba's Jewish Quarter. The Mosque-Cathedral spire sets a useful landmark--_if_you can find a view of it from the narrow passages."
+>}}
+
+
+
 
 
 
