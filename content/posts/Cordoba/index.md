@@ -36,7 +36,13 @@ Cordoba is a city in Andalusion Spain, known for its rich history and cultural h
 
 ## The Mosque-Cathedral of Cordoba[^1] 
 
-_La Mezquita_ or the "Great Mosque of Córdoba"  is an unexpected cultural and architectural treat. The mosque was built in stages beginning in 785 and eventually growing to be about 5.5 acres of floor space. (That rivals small-city some convention halls for floor space!} It is believed to have been constructed on the ruins of Roman a Roman temple and Visigoth church; however, that early history is debated among scholars. There were several periods of construction of the mosque halls now visible as five distinct zones. A well-prepared tour guide will point out the some of the subtle transitions in the columns, capitals and arches. Elsewhere, the transitions "pop" as a result of evolving designs and changes in the sources of stone and marble. 
+_La Mezquita_ or the "Great Mosque of Córdoba"  is an unexpected cultural and architectural treat. The mosque was built in stages beginning in 785 and eventually growing to be about 5.5 acres of floor space. The site is known be many names:
+- _La Mezquita_ is Spanish for "the mosque"
+- _Catedral de Nuestra Señora de la Asunción_ (Cathedral of Our Lady of the Assumption) is the official name of the parish in the Catholic church.
+- _Mosquita-Catedral_ or, "Mosque-Church"
+- "The Great Cathedral of Cordoba," signifying the site's historial importance to Cordoba.
+
+The "Great Mosque" (yes, another moniker predating cathedral status!) is believed to have been constructed on the ruins of a Roman temple and Visigoth church; however, that early history is debated among scholars. There were several periods of construction of the mosque halls now visible as five distinct zones. A well-prepared tour guide will point out the some of the subtle transitions in the columns, capitals and arches. Elsewhere, the transitions "pop" as a result of evolving designs and changes in the sources of stone and marble. 
 
 As you walk through the halls, the number of moorish arches is staggering---each arch in red and white alternating stripes which were used to visually amplify the graceful arches. It is often called a "forest of columns" on travel websites---an apt description of the feeling one gets in walking the halls.  
 
@@ -91,9 +97,16 @@ One major theme that one leaves with from Adalusian Spain with is the ubiquitous
 {{< figure
   src= "mosque-church-spire-from-jewish-quarter.JPEG"
   link= "mosque-church-spire-from-jewish-quarter.JPEG"
-  caption= "We're off to the white-washed walls and narrow streets of Cordoba's Jewish Quarter. The Mosque-Cathedral spire sets a useful landmark--_if_you can find a view of it from the narrow passages."
+  caption= "We're off to the white-washed walls and narrow streets of Cordoba's Jewish Quarter. The Mosque-Cathedral spire sets a useful landmark--if you can find a view of it from within the narrow passages!"
+  width="80%"
 >}}
 
+{{< figure
+  src="cordoba-lunch-jewish-quarter.JPEG"
+  link="cordoba-lunch-jewish-quarter.JPEG"
+  caption="A pause for a leisurely outdoor Spanish lunch in the Jewish Quarter of Codoba"
+  width="80%"
+   >}}
 
 
 
