@@ -42,9 +42,9 @@ _La Mezquita_ or the "Great Mosque of Córdoba"  is an unexpected cultural and a
 - _Mosquita-Catedral_ or, "Mosque-Church"
 - "The Great Cathedral of Cordoba," signifying the site's historial importance to Cordoba.
 
-The "Great Mosque" (yes, another moniker predating cathedral status!) is believed to have been constructed on the ruins of a Roman temple and Visigoth church; however, that early history is debated among scholars. There were several periods of construction of the mosque halls now visible as five distinct zones. A well-prepared tour guide will point out the some of the subtle transitions in the columns, capitals and arches. Elsewhere, the transitions "pop" as a result of evolving designs and changes in the sources of stone and marble. 
+The "Great Mosque" (yes, another moniker predating cathedral status!) is believed to have been constructed on the ruins of a Roman temple and Visigoth church; however, that early history is debated among scholars. There were several periods of construction of the mosque halls creating five distinct zones. A well-prepared tour guide will point out the some of the more subtle transitions in the columns, capitals and arches. Elsewhere, the transitions "pop" from one period to the next from evolving designs in addition to the sources of stone and marble. 
 
-As you walk through the halls, the number of moorish arches is staggering---each arch in red and white alternating stripes which were used to visually amplify the graceful arches. It is often called a "forest of columns" on travel websites---an apt description of the feeling one gets in walking the halls.  
+As you walk through the halls, the number of moorish arches is staggering---each arch in red and white alternating stripes that visually amplify the graceful arches. The mosque area is often called a "forest of columns" on travel websites---an apt description of the feeling one has navigating the halls.  
 
 
 {{< figure 

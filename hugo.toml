@@ -49,7 +49,7 @@ siteStartYear = 2025
 # customSyntaxHighlighting = true
 
 # options
-stickyNav = true
+stickyNav = false
 reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags", "github" ]
 # collapseNavItems = [ "posts", "categories", "tags"]
 # noDefaultSummaryCover = true
@@ -60,7 +60,7 @@ showPrevNextPost = true
 # reorderShares = []S
 
 [params.navItems]
-# series =  {href = "/about", target="_blank", icon = "planet", title = "Series" }
+series =  {href = "about", target="about", icon = "planet", title = "Series" }
 github = {href="https://github.com/h-greggc/hugo-travel-dream", target = "_blank", icon="logo-github", title = "GitHub" }
 # collette ={href="https://www.gocollette.com/en", target="_blank", icon= "compass-outline", title="Collette Tours"}
 

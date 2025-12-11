@@ -32,8 +32,6 @@ Well, a "converted" convent. The hotel was certainly as quiet as a convent.
 
 ### Medieval aquaduct in the Roman style 
 
-Growing "metropolises" in midieval Spain often faced challenges fining enough water on 
-
 
 {{< figure 
   src="Elvas_AquedutodaAmoreira.jpg"
@@ -44,4 +42,8 @@ Growing "metropolises" in midieval Spain often faced challenges fining enough wa
   caption="The medieval aqueduct in the Elvas district. Built beginning in the 1500s, the Roman style aqueduct carried water from a source 8 kilometers from the village." 
   >}}
 
+
+
+
+Growing "metropolises" in medieval Spain often faced challenges fining enough water on 
 
