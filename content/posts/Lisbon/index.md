@@ -28,11 +28,11 @@ Lisbon is the capital city of Portugal, known for its rich history, vibrant cult
 <!--more-->
 DRAFT
 
-Lisbon was the final overnight stay for three nights near the city center. Lisbon is the capital city of Portugal, known for its rich history, vibrant culture, and stunning architecture. It is located on the western coast of the Iberian Peninsula along the Atlantic Ocean. It follows Reykjavik, Iceland, as the second western-most city in Europe. The city is famous for its historic neighborhoods, such as Alfama and Bairro Alto, and landmarks like the Belém Tower and Jerónimos Monastery.
+Lisbon was the final overnight stay for three nights near the city center. Lisbon is the capitol city of Portugal, known for its rich history, vibrant culture, and stunning architecture. It is located on the western coast of the Iberian Peninsula along the Atlantic Ocean. It follows Reykjavik, Iceland, as the second western-most city in Europe. The city is famous for its historic neighborhoods, such as _Alfama_ and _Bairro Alto_, and landmarks like the Belém Tower and Jerónimos Monastery.
 
 ## Entering the City by the Golden Gate Bridge?
 
-We arrived in Lisbon by bus across the Tagus River--the same river nearly circling Toledo, Spain--on the _25 de Abril_ bridge. The bridge was the longest suspension bridge in Europe. It was opened as _Ponte Salazaar_ in 1966. The bridge is strikingly familiar as it was designed by the same bridge builders who designed San Franciso's Golden Gate! The major difference from San Franciso's treasure is the second (lower) level dedicated to public transportation. Lisbon's other major bridge is the modern _Vasco da Gama Bridge_. It is the longest (10.7 mi) water crossing in Europe. We saw the bridge only in the distance during our time in Lisbon. 
+We arrived in Lisbon by bus across the Tagus River on the _25 de Abril_ bridge--the same river nearly circling Toledo, Spainhe _25 de Abril_ bridge. The bridge was the longest suspension bridge in Europe. It was opened as _Ponte Salazaar_ in 1966. The bridge is strikingly familiar as it was designed by the same bridge builders who designed San Franciso's Golden Gate! The major difference from San Franciso's treasure is the second (lower) level dedicated to public transportation. Lisbon's other major bridge is the modern _Vasco da Gama Bridge_. It is the longest (10.7 mi) water crossing in Europe. We saw the bridge only in the distance during our time in Lisbon. 
 
 (FIGURE)
 
@@ -44,5 +44,18 @@ The Lisbon Region has ~2.8 M residents among which the city of Lisbon (proper) c
 
 ## Three nights to close our Spain and Portugal Tour
 
-We left the bus for three nights in a business/conference hotel, [The Altis Grand Hotel](https://www.altishotels.com), a short couple of blocks from  _Av. da Liberdade_. The avenue is a broad, park-landscaped boulevard that holds open air art (and tourist) markets nearly every day. It is an easy, landscaped walk to the bay, funicular, and the São Nicolau district on the waterfront.   
+We left the bus for three nights in a business/conference hotel, [The Altis Grand Hotel](https://www.altishotels.com), a short couple of blocks from  _Av. da Liberdade_. The avenue is a broad, park-landscaped boulevard that holds open air art (and tourist) markets nearly every day. It is an easy, landscaped walk to the bay, funicular, and the São Nicolau district on the waterfront.  
+
+### Fado: A sad story, beautifully sung
+
+A memorable night on our tour of Lisbon was a group dinner night of Fado music. The Fado venue was one that had a reasonable number of "locals" which I take as a clear sign of authenticity. The food was good; however, the music was even better. The Fado vocalists and musicians had very little room for a stage area, so they were nearly bumping the diners as they played guitar, bass guitar and the delightful coimbra guitar!
+
+<iframe width="75%" src="https://www.youtube.com/embed/zpa93u9cp1U?si=D6KTkt8jWkvTJh8V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+--
+
+Fado is often described as originating in Lisbon's fishing communities in the early 1800's, perhaps sung by a sailor at the bow of the boat. Some historians suggest that the history begins a lot earlier, perhaps due to it similarity to Moorish, "song of a friend" mournful sounds. (We even thought that the beginning of one song sounded like a Muslim call to prayer.) These origins and others are not believed to be supported by the historical record. 
+
+The following quote from Wikipedia captures the meaning of today's Fado: 
+
+ > Although the origins are difficult to trace, today fado is commonly regarded as simply a form of song which can be about anything, but must follow a certain traditional structure. In popular belief, fado is a form of music characterized by mournful tunes and lyrics, often about the sea or the life of the poor, and infused with a sense of resignation, fate and melancholy. -- [Wikipedia](https://en.wikipedia.org/wiki/Fado)
 
