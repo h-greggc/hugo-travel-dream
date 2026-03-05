@@ -7,3 +7,4 @@ I have modified a few features including adding a simple shortcode to place two 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/551f93ec-43a4-4b9d-be19-1f2c525589b2/deploy-status)](https://app.netlify.com/projects/gc-travel/deploys)
 
+commit for netlify
